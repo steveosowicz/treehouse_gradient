@@ -1,0 +1,20 @@
+
+
+
+html {
+	height: 100%
+}
+
+body {
+	background: -webkit-linear-gradient(hsl(218,51%,32%), transparent 75%),
+		url('bg.jpg');
+	background-size: cover;
+}
+
+.box {
+	width: 70%;
+	height: 500px;
+	margin: 35px auto;
+
+	background: -webkit-repeating-linear-gradient(rgba(58,122,187,.8), rgb(43,79,115) 50px);
+}
